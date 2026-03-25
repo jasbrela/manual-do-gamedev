@@ -38,7 +38,7 @@
 - Mix and Jam ([Youtube](https://www.youtube.com/@mixandjam))
 - GDC ([Youtube](https://www.youtube.com/@Gdconf))
 - [Mentorias Games Brasil](https://www.mentoriasgamesbr.com/) - Usem e abusem desse site. A melhor forma de aprender, além da prática, é conversando com pessoas dispostas a passar a experiência para frente.
-- [Guia Jammer](https://github.com/ashcrysis/guia-jammer.github.io)
+- [Manual da Jammer (por @ashcrysis)](https://github.com/ashcrysis/guia-jammer.github.io)
 
 # Onde procurar emprego?
 - [Hitmarker](https://hitmarker.net/)
